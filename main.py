@@ -7,7 +7,7 @@ font_name1 = "Arial"
 font_name2 = "Impact"
 font_name3 = "Georgia"
 def fetch_weather(city_name):
-    api_key = "1b2f8c4cbcbd0ee0ce628c4130e28dc2"
+    api_key = "d454ea7978d7bfc6867281125ca53fa5"
     api_addr = f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={api_key}"
     request_to_respond = requests.get(api_addr)
 
