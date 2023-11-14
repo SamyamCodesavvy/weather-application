@@ -31,3 +31,7 @@ This Python-based Weather App leverages the OpenWeatherMap API to provide real-t
 ## Conclusion
 The Weather App delivers real-time weather data, enhancing user accessibility to current weather information. Its intuitive interface and graphical representations make it a user-friendly tool for obtaining weather forecasts conveniently.
 
+## Resources
+- https://openweathermap.org/
+- https://www.youtube.com/watch?v=VaqYFs7Az50
+
